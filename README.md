@@ -17,7 +17,7 @@ By the way, I really need a mentor. Self-study is not easy and I do my best to a
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Git](/svg/git.svg)
-![Docker](/svg/docker-logo-svgrepo-com.svg)
+![Docker](/svg/docker.svg)
 
 
 ## Contacts
