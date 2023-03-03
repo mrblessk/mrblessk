@@ -1,5 +1,12 @@
 ### Suleymanov Roman.
 
+Hello!
+Until 2022, I worked in e-commerce and with advertising traffic on Google and Facebook. All 2022 I studied the basics of Python and Django.
+Now I'm trying to learn some other frameworks and tools (Fast API, aiohttp, SQLAlchemy, Flask)  to expand my stack and plan some interesting pet project based on them.
+Also little by little trying to understand asynchronous.
+
+By the way, I really need a mentor. Self-study is not easy and I do my best to achieve my learning goals.
+
 
 ## My stack
 ![Python](/svg/python.svg)
