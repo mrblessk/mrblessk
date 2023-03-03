@@ -5,7 +5,10 @@ Until 2022, I worked in e-commerce and with advertising traffic on Google and Fa
 Now I'm trying to learn some other frameworks and tools (Fast API, aiohttp, SQLAlchemy, Flask)  to expand my stack and plan some interesting pet project based on them.
 Also little by little trying to understand asynchronous.
 
+There is nothing in my portfolio yet. I think in the near future I will finish one project and it will be possible to look at it.
+
 By the way, I really need a mentor. Self-study is not easy and I do my best to achieve my learning goals.
+
 
 
 ## My stack
@@ -14,6 +17,7 @@ By the way, I really need a mentor. Self-study is not easy and I do my best to a
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Git](/svg/git.svg)
+![Вщслук](/svg/docker.svg)
 
 
 ## Contacts
